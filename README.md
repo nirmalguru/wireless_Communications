@@ -1,5 +1,3 @@
-# WirelessCommunications
-This Repo consists of Basic MATLAB Scipts wireless end-to-end communication link, in cases of NoChannel, AWGN channel, transmit and receive Filters (RRC),Multipath Channel, OFDM, CP-OFDM, Frequency Domain Equalization, Null Carriers.
 ## WirelessCommunications
 This Repo consists of Basic MATLAB Scipts 
 **Wireless end-to-end communication link**
